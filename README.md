@@ -19,6 +19,6 @@
 <p align="center">⬇️ <b>PC Spec</b> ⬇️</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/INTEL%20corei7-0000FF?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/INTEL%20corei7-6DA9DF?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/NVIDIA%20rtx2060-0000FF?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
